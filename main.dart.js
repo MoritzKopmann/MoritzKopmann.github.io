@@ -38161,7 +38161,7 @@ var $async$nb=A.G(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:o.aD(new A.abV(o))
 q=3
 s=6
-return A.w(A.a4u("625c4f285bd2495aa1e5ae445b7067fc","spotify-sdk://auth"),$async$nb)
+return A.w(A.a4u("625c4f285bd2495aa1e5ae445b7067fc","MoritzKopmann.github.io/redirect.html"),$async$nb)
 case 6:n=b
 o.aD(new A.abW(o,n))
 q=1
